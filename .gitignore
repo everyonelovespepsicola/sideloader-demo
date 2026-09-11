@@ -1,0 +1,7 @@
+# Ignore everything in this repository
+*
+
+# Allow README.md
+!README.md
+!readme.md
+!.gitignore
