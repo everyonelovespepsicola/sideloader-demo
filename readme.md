@@ -47,6 +47,12 @@ Unlock unlimited APK sideloading, screen mirroring, file transfer, and system se
 
 ---
 
+## 🔒 Privacy Policy
+
+For privacy details, read our official [**Privacy Policy**](https://github.com/everyonelovespepsicola/sideloader-demo/blob/master/PRIVACY.md).
+
+---
+
 ## 📜 License
 
 This repository distributes the free evaluation demo build of **Sideloader**. Copyright © 2026 Sideloader. All rights reserved. Commercial software terms apply.
