@@ -4,4 +4,5 @@
 # Allow README.md
 !README.md
 !readme.md
+!PRIVACY.md
 !.gitignore
