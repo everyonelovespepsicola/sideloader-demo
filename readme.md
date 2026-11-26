@@ -23,7 +23,7 @@
 
 Unlock unlimited APK sideloading, screen mirroring, file transfer, and system setting modifications completely free:
 
-👉 [**Download Sideloader on GitHub Releases**](https://apps.microsoft.com/detail/9N3FN32J5HZZ)
+👉 [**Download Sideloader on Microsoft Store**](https://apps.microsoft.com/detail/9N3FN32J5HZZ)
 
 ---
 
