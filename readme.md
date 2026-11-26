@@ -31,7 +31,7 @@ Download the latest standalone executable from our [**GitHub Releases Page**](ht
 
 ---
 
-## 🛒 Upgrade to Full Version ($9.99)
+## 🛒 Upgrade Full Version (Free)
 
 Unlock unlimited APK sideloading, screen mirroring, file transfer, and system setting modifications:
 
