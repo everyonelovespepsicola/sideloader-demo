@@ -19,18 +19,6 @@
 
 ---
 
-## 📥 Download Demo Release
-
-Download the latest standalone executable from our [**GitHub Releases Page**](https://github.com/everyonelovespepsicola/sideloader-demo/releases).
-
-1. Download `sideloader-demo-windows.zip` from the latest release.
-2. Extract the ZIP archive to any folder.
-3. Run `sideloader.exe` — no installer required!
-
-> 💡 **Demo Mode Limits**: All tabs and previews are fully scrollable and interactive so you can test device connection and UI features. Execution actions (installing, modifying settings, mirroring) require the full version.
-
----
-
 ## 🚀 Full Version (Free)
 
 Unlock unlimited APK sideloading, screen mirroring, file transfer, and system setting modifications completely free:
