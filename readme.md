@@ -1,4 +1,4 @@
-# Sideloader — Android & VR App Manager (Free Demo)
+# Sideloader — Android & VR App Manager
 
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011%20x64-blue.svg)](https://github.com/everyonelovespepsicola/sideloader-demo)
 [![License](https://img.shields.io/badge/License-Commercial%20Trial-orange.svg)](#license)
