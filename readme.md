@@ -1,9 +1,5 @@
 # Sideloader — Android & VR App Manager
 
-[![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011%20x64-blue.svg)](https://github.com/everyonelovespepsicola/sideloader-demo)
-[![License](https://img.shields.io/badge/License-Commercial%20Trial-orange.svg)](#license)
-[![Build](https://img.shields.io/badge/Release-v1.0.0-success.svg)](https://github.com/everyonelovespepsicola/sideloader-demo/releases)
-
 **Sideloader** is the fastest, easiest 1-click desktop app manager to sideload games and apps onto **Meta Quest VR headsets, Fire TV, Android phones, and tablets**.
 
 ---
