@@ -35,7 +35,7 @@ Download the latest standalone executable from our [**GitHub Releases Page**](ht
 
 Unlock unlimited APK sideloading, screen mirroring, file transfer, and system setting modifications:
 
-👉 [**Get Sideloader Full Version on Microsoft Store**](ms-windows-store://pdp/?productid=9N3FN32J5HZZ)
+👉 [**Get Sideloader Full Version on Microsoft Store**](https://apps.microsoft.com/detail/9N3FN32J5HZZ)
 
 ---
 
