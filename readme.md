@@ -31,11 +31,11 @@ Download the latest standalone executable from our [**GitHub Releases Page**](ht
 
 ---
 
-## 🛒 Upgrade Full Version (Free)
+## 🚀 Full Version (Free)
 
-Unlock unlimited APK sideloading, screen mirroring, file transfer, and system setting modifications:
+Unlock unlimited APK sideloading, screen mirroring, file transfer, and system setting modifications completely free:
 
-👉 [**Get Sideloader Full Version on Microsoft Store**](https://apps.microsoft.com/detail/9N3FN32J5HZZ)
+👉 [**Download Sideloader on GitHub Releases**](https://github.com/everyonelovespepsicola/sideloader-demo/releases)
 
 ---
 
