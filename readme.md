@@ -39,4 +39,4 @@ For privacy details, read our official [**Privacy Policy**](https://github.com/e
 
 ## 📜 License
 
-This repository distributes the free evaluation demo build of **Sideloader**. Copyright © 2026 Sideloader. All rights reserved. Commercial software terms apply.
+This repository distributes **Sideloader** as freeware. Copyright © 2026 Sideloader. All rights reserved.
